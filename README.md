@@ -7,7 +7,7 @@ Retirar Dinero: Permite realizar retiros de fondos disponibles en la cuenta.
 Pago de Servicios: Facilita el pago de servicios como agua, electricidad o internet.
 Cambio de Clave: Ofrece la opción de actualizar la clave de seguridad de la cuenta.
 ## Tecnologías Utilizadas
-Lenguaje de programación: C#
+Lenguaje de programación: C++
 Entorno de desarrollo: Visual Studio / Visual Studio Code
 ## Instalación
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
